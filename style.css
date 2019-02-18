@@ -64,16 +64,18 @@ body {
 .header__input:focus {
    background-color: (0, 0, 0, 0.2);
 }
-section {
+.countries {
    text-align: center;
    background-color: rgba(124, 129, 107, 0.75);
    height: 55vh;
 }
-h2 {
+.countries__title {
    padding: 10px 0;
    font-size: 28px;
 }
-ul li {
+.countries__list {
+}
+.countres__item {
    padding-top: 5px;
    font-size: 20px;
 }
