@@ -68,10 +68,12 @@ body {
    text-align: center;
    background-color: rgba(124, 129, 107, 0.75);
    height: 55vh;
+   padding-top: 25px;
+   padding-bottom: 25px;
 }
 .countries__title {
-   padding: 10px 0;
    font-size: 28px;
+   margin-bottom: 20px;
 }
 .countries__list {
 }
